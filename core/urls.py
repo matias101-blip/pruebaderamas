@@ -22,4 +22,4 @@ urlpatterns = [
     path("admin/", admin.site.urls),
 ]
 
-#Tu mama tiene moso y estuvo por aqui :v
+#Tu mama tiene moso y estuvo por aqui :v emiro es negro
